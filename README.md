@@ -1,4 +1,5 @@
-# Thinkful-Supervised-Learning-Electricity-Prices: Predicting Retail Electricity Prices with Supervised Learning Approaches - Data from January 2008 to July 2020
+# Thinkful-Supervised-Learning-Electricity-Prices
+## Predicting Retail Electricity Prices with Supervised Learning Approaches - Data from January 2008 to July 2020
   
 [Open the Presentation Summary](https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/Supervised%20Learning%20-%20Presentation%20Summary.pdf)
 
@@ -41,19 +42,33 @@ Project is created with the following Python technologies and libraries:
 
 ## Key Data Visualizations
 
+### Supervised Machine Learning Regression Results
+
 ![alt text](<https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/images/supervised_learning_results.png>)
+
+## Random Forest Regressions
 
 ![alt text](<https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/images/random_forest_regr_grid.png>)
 
 ![alt text](<https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/images/random_forest_regr_plain.png>)
 
+## Gradient Boosting Regression
+
 ![alt text](<https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/images/gradient_boost_regr_plain.png>)
+
+## Linear Regression
 
 ![alt text](<https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/images/linear_regr.png>)
 
+## Variable Correlation Matrix
+
 ![alt text](<https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/images/correlations.png>)
 
+### Variable Distributions
+
 ![alt text](<https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/images/variable_distributions.png>)
+
+### Chronological Variable Data
 
 ![alt text](<https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/images/variables_over_time.png>)
 

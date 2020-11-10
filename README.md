@@ -72,6 +72,8 @@ Project is created with the following Python technologies and libraries:
 
 ![alt text](<https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/images/variables_over_time.png>)
 
+## Category Feature Variable Counts
+
 ![alt text](<https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/images/category_counts.png>)
 
 ## Geographic Regions

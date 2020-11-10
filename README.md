@@ -6,8 +6,9 @@
 
 * [Project Information](#project-information)
 * [Technologies](#technologies)
-* [Geographic Regions](#geographic-regions)
 * [Key Data Visualizations](#key-data-visualizations)
+* [Geographic Regions](#geographic-regions)
+
 
 ## Project Information
 

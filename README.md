@@ -38,10 +38,6 @@ Project is created with the following Python technologies and libraries:
  * Matplotlib version: 3.1.3
  * Seaborn version: 0.10.1
 
-## Geographic Regions
-
-![alt text](<https://github.com/DataCodeFu/Thinkful-Experimental-Design-Electricity-Prices/blob/master/EIA%20data%20sets/region_map.jpg>)
-
 ## Key Data Visualizations
 
 ![alt text](<https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/images/supervised_learning_results.png>)
@@ -61,3 +57,7 @@ Project is created with the following Python technologies and libraries:
 ![alt text](<https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/images/variables_over_time.png>)
 
 ![alt text](<https://github.com/DataCodeFu/Thinkful-Supervised-Learning-Electricity-Prices/blob/main/images/category_counts.png>)
+
+## Geographic Regions
+
+![alt text](<https://github.com/DataCodeFu/Thinkful-Experimental-Design-Electricity-Prices/blob/master/EIA%20data%20sets/region_map.jpg>)
